@@ -1,0 +1,43 @@
+html{
+    background: url(fondo-monocromatico-blanco-estilo-papel_52683-66443.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#reloj{
+    font-family: sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px #333;
+    color: white;
+}
+
+.container{
+    background-color: darkslategrey;
+    border-radius: 10px;
+    max-width: 500px;
+    padding: 25px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+#fecha{
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+.titulo{
+    font-family: Impact;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 5px rgb(0, 0, 0);
+    letter-spacing: 5px;
+    border-radius: 10px;
+    max-width: 500px;
+    padding: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.animar{
+    background-color: rgb(71, 105, 105);
+}
